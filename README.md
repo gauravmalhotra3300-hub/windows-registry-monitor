@@ -1,5 +1,7 @@
 # Windows Registry Monitor
 
+
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue) ![GitHub Actions](https://github.com/gauravmalhotra3300-hub/windows-registry-monitor/workflows/Python%20CI/CD/badge.svg) ![License](https://img.shields.io/badge/license-MIT-green) ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 A comprehensive Windows Registry monitoring system for detecting unauthorized registry modifications, malware persistence mechanisms, and suspicious system changes. This project provides a complete defensive security toolkit for registry auditing, baseline comparison, real-time alerting, and forensic reporting.
 
 ## Features
@@ -113,6 +115,8 @@ Generates comprehensive monitoring reports in multiple formats.
 ```
 START
   ↓
+
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue) ![GitHub Actions](https://github.com/gauravmalhotra3300-hub/windows-registry-monitor/workflows/Python%20CI/CD/badge.svg) ![License](https://img.shields.io/badge/license-MIT-green) ![Status](https://img.shields.io/badge/status-stable-brightgreen)
 Load Configuration
   ↓
 Create/Load Baseline Registry Snapshot
